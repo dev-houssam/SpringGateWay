@@ -1,4 +1,4 @@
-# SpringGateWay
+# SpringGateWay Resources
 SpringGateWay : a SpringBoot GateWay
 
 # Resources
